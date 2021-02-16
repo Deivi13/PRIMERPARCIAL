@@ -1,0 +1,7 @@
+D:\ITLA\Semestre 2021 1\Fundamentos de programacion(7) - Miguel Liceares Moreta Rodriguez\EXAMENES\FDP_INVERSMENTS\bin\Debug\FDP_INVERSMENTS.exe.config
+D:\ITLA\Semestre 2021 1\Fundamentos de programacion(7) - Miguel Liceares Moreta Rodriguez\EXAMENES\FDP_INVERSMENTS\bin\Debug\FDP_INVERSMENTS.exe
+D:\ITLA\Semestre 2021 1\Fundamentos de programacion(7) - Miguel Liceares Moreta Rodriguez\EXAMENES\FDP_INVERSMENTS\bin\Debug\FDP_INVERSMENTS.pdb
+D:\ITLA\Semestre 2021 1\Fundamentos de programacion(7) - Miguel Liceares Moreta Rodriguez\EXAMENES\FDP_INVERSMENTS\obj\Debug\FDP_INVERSMENTS.csprojAssemblyReference.cache
+D:\ITLA\Semestre 2021 1\Fundamentos de programacion(7) - Miguel Liceares Moreta Rodriguez\EXAMENES\FDP_INVERSMENTS\obj\Debug\FDP_INVERSMENTS.csproj.CoreCompileInputs.cache
+D:\ITLA\Semestre 2021 1\Fundamentos de programacion(7) - Miguel Liceares Moreta Rodriguez\EXAMENES\FDP_INVERSMENTS\obj\Debug\FDP_INVERSMENTS.exe
+D:\ITLA\Semestre 2021 1\Fundamentos de programacion(7) - Miguel Liceares Moreta Rodriguez\EXAMENES\FDP_INVERSMENTS\obj\Debug\FDP_INVERSMENTS.pdb
